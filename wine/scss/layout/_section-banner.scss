@@ -1,0 +1,11 @@
+.section-banner {
+   padding: 42rem 10rem 12rem;
+   color: $color-white;
+   &__title {
+      font-size: 7rem;
+      font-family: "Minion";
+   }
+   &__sub {
+      text-transform: uppercase;
+   }
+}

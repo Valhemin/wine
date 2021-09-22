@@ -1,0 +1,7 @@
+@import "../layout/header";
+@import "../layout/section-home";
+@import "../layout/footer";
+.bg-primary {
+   background-size: cover;
+   background-image: url("../img/banner-home.jpg");
+}
