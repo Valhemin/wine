@@ -1,0 +1,24 @@
+@font-face {
+    font-family: 'Minion';
+    src: url('Minion-Condensed.eot');
+    src: url('Minion-Condensed.eot?#iefix') format('embedded-opentype'),
+        url('Minion-Condensed.woff2') format('woff2'),
+        url('Minion-Condensed.woff') format('woff'),
+        url('Minion-Condensed.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Corbel';
+    src: url('Corbel.eot');
+    src: url('Corbel.eot?#iefix') format('embedded-opentype'),
+        url('Corbel.woff2') format('woff2'),
+        url('Corbel.woff') format('woff'),
+        url('Corbel.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
