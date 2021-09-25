@@ -1,0 +1,27 @@
+@import "../components/product";
+@import "../components/modal-product";
+.section-wines {
+   padding: 2rem 12rem;
+   &__title {
+      font-size: 6rem;
+      font-family: "Minion";
+      letter-spacing: 0.4rem;
+      color: $color-t-primary;
+   }
+   &__space {
+      margin: 3rem -6rem;
+      padding: 0 6rem;
+      margin-bottom: 4rem;
+      width: 100%;
+      height: 0.1rem;
+      box-sizing: content-box;
+      background-color: $color-t-primary;
+   }
+   &__product {
+      margin-top: 8rem;
+   }
+   &__modal {
+      display: none;
+      margin: 0 -4rem;
+   }
+}
